@@ -1,5 +1,5 @@
-```markdown
-# fortigate_cis_audit
+
+## FORTIFATE CIS AUDIT
 
 Automation script to audit Fortigate Firewalls against CIS BENCHMARKS
 
